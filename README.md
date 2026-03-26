@@ -1,11 +1,11 @@
 # Buge App Locker
 
+[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
+[![Material Design 3](https://img.shields.io/badge/Material%20Design-3-757575?logo=material-design&logoColor=white)](https://m3.material.io)
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/BugeStudioTeam/Buge-App-Locker/refs/heads/main/icon.jpg" alt="Buge App Locker Icon" width="120"/>
 </p>
-
-[![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
-[![Material Design 3](https://img.shields.io/badge/Material%20Design-3-757575?logo=material-design&logoColor=white)](https://m3.material.io)
 
 Buge App Locker is a lightweight Android application locker that operates using **Accessibility Service**. Designed with **Material Design 3**, it provides a seamless and secure way to protect sensitive apps from unauthorized access.
 
