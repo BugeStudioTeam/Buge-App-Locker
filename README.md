@@ -1,5 +1,9 @@
 # Buge App Locker
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BugeStudioTeam/Buge-App-Locker/refs/heads/main/icon.jpg" alt="Buge App Locker Icon" width="120"/>
+</p>
+
 [![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)](https://developer.android.com)
 [![Material Design 3](https://img.shields.io/badge/Material%20Design-3-757575?logo=material-design&logoColor=white)](https://m3.material.io)
 
