@@ -17,7 +17,7 @@ Buge App Locker is a lightweight Android application locker that operates using 
 - **Material Design 3 UI** – Clean, modern interface that adapts to your device's system theme.
 
 ### 🔐 Lock Methods
-- PIN code protection
+- PIN
 
 ### 🛡️ Privacy & Security
 - Hide app lock notifications for stealth protection
