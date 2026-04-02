@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="nav_apps">Aplicaciones</string>
+    <string name="nav_settings">Ajustes</string>
+    <string name="section_security">Seguridad</string>
+    <string name="settings_password_title">PIN de Bloqueo</string>
+    <string name="status_enabled">Activado</string>
+    <string name="status_disabled">Desactivado</string>
+    <string name="lang_english">Inglés</string>
+    <string name="lang_chinese">Chino</string>
+    <string name="lang_spanish">Español</string>
+</resources>

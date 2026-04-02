@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Buge 应用锁</string>
+    <string name="service_label">Buge 应用锁服务</string>
+    <string name="service_description">监控应用启动以执行应用锁保护。</string>
+
+    <string name="nav_apps">应用</string>
+    <string name="nav_settings">设置</string>
+
+    <string name="apps_title">受保护的应用</string>
+    <string name="apps_subtitle">开启开关以用 PIN 锁定应用</string>
+    <string name="search_hint">搜索应用…</string>
+    <string name="loading_apps">正在加载应用…</string>
+    <string name="locked_count">已保护 %d 个应用</string>
+    <string name="no_apps_found">未找到应用</string>
+
+    <string name="settings_title">设置</string>
+
+    <string name="section_security">安全</string>
+    <string name="settings_password">应用锁 PIN</string>
+    <string name="settings_password_sub">设置或更改解锁 PIN</string>
+    <string name="settings_password_not_set">未设置 — 点击配置</string>
+    <string name="settings_password_set">PIN 已设置 — 点击更改</string>
+
+    <string name="section_services">服务</string>
+    <string name="settings_accessibility">无障碍服务</string>
+    <string name="settings_accessibility_sub">应用锁功能所必需</string>
+    <string name="status_enabled">已启用</string>
+    <string name="status_disabled">已禁用</string>
+    <string name="settings_battery">电池优化</string>
+    <string name="settings_battery_sub">保持服务在后台运行</string>
+    <string name="status_unrestricted">不受限制</string>
+    <string name="status_restricted">受限制</string>
+
+    <string name="section_preferences">偏好设置</string>
+    <string name="settings_language">语言</string>
+    <string name="settings_language_sub">选择显示语言</string>
+
+    <string name="section_about">关于</string>
+    <string name="settings_version">版本 1.0.2</string>
+    <string name="settings_package">com.buge.locker</string>
+
+    <string name="pwd_dialog_title">设置解锁 PIN</string>
+    <string name="pwd_new">新 PIN（4–8 位数字）</string>
+    <string name="pwd_confirm">确认 PIN</string>
+    <string name="pwd_save">保存</string>
+    <string name="pwd_cancel">取消</string>
+    <string name="pwd_too_short">PIN 至少需要 4 位数字</string>
+    <string name="pwd_mismatch">两次输入的 PIN 不一致</string>
+    <string name="pwd_saved">PIN 保存成功</string>
+    <string name="pwd_removed">PIN 已移除</string>
+
+    <string name="lock_title">应用已锁定</string>
+    <string name="lock_subtitle">请输入 PIN 以继续</string>
+    <string name="lock_hint">输入 PIN</string>
+    <string name="lock_unlock">解锁</string>
+    <string name="lock_go_home">返回主屏幕</string>
+    <string name="lock_wrong_pin">PIN 错误，请重试</string>
+
+    <string name="dlg_accessibility_title">启用无障碍服务</string>
+    <string name="dlg_accessibility_msg">Buge 应用锁需要无障碍服务来检测被锁定应用的启动。请在下一个界面中启用它。</string>
+    <string name="dlg_go_settings">打开设置</string>
+    <string name="dlg_cancel">取消</string>
+    <string name="dlg_language_title">选择语言</string>
+    <string name="lang_english">English</string>
+    <string name="lang_chinese">中文 (Chinese)</string>
+    <string name="lang_spanish">西班牙语 (Spanish)</string>
+    <string name="lang_changed">语言已更改，正在重启…</string>
+</resources>

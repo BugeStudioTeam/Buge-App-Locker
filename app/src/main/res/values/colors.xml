@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- MD3 Light Blue Primary -->
+    <color name="md_theme_light_primary">#006590</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#C4E7FF</color>
+    <color name="md_theme_light_onPrimaryContainer">#001E2D</color>
+    <color name="md_theme_light_secondary">#4E616D</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#D1E5F4</color>
+    <color name="md_theme_light_onSecondaryContainer">#0A1E28</color>
+    <color name="md_theme_light_tertiary">#5C5B7E</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#E2DFFF</color>
+    <color name="md_theme_light_onTertiaryContainer">#191837</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#F6FAFE</color>
+    <color name="md_theme_light_onBackground">#181C1F</color>
+    <color name="md_theme_light_surface">#F6FAFE</color>
+    <color name="md_theme_light_onSurface">#181C1F</color>
+    <color name="md_theme_light_surfaceVariant">#DCE4EA</color>
+    <color name="md_theme_light_onSurfaceVariant">#40484D</color>
+    <color name="md_theme_light_outline">#70787D</color>
+    <color name="md_theme_light_outlineVariant">#C0C8CD</color>
+    <color name="md_theme_light_inverseSurface">#2D3135</color>
+    <color name="md_theme_light_inverseOnSurface">#EEF1F5</color>
+    <color name="md_theme_light_inversePrimary">#7DD0FF</color>
+    <color name="md_theme_light_surfaceTint">#006590</color>
+    <color name="md_theme_light_scrim">#000000</color>
+
+    <!-- Status colors -->
+    <color name="color_enabled">#1B8A3E</color>
+    <color name="color_disabled">#BA1A1A</color>
+
+    <!-- Lock screen -->
+    <color name="lock_bg">#0D1B2A</color>
+    <color name="lock_surface">#1A2B3C</color>
+    <color name="lock_primary">#7DD0FF</color>
+    <color name="lock_on_primary">#003549</color>
+    <color name="lock_text_primary">#E8F4FD</color>
+    <color name="lock_text_secondary">#90B8D0</color>
+</resources>
