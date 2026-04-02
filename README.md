@@ -28,7 +28,7 @@ Buge App Locker is a lightweight Android application locker that operates using 
 
 1. **Enable Accessibility** – Grant Accessibility Service permission to Buge App Locker.
 2. **Select Apps** – Choose which apps you want to lock from the app list.
-3. **Set Lock Method** – Configure your preferred unlock method (pattern, PIN, etc.).
+3. **Set Lock Method** – Configure your preferred unlock method ( PIN ).
 4. **Auto Protection** – When a locked app is opened, the locker intercepts and prompts for authentication.
 
 ## Requirements
